@@ -1,2 +1,2 @@
 # Fast-Style-Transfer-mymodels
-5 new models(farsh,etc) + 2 models (pattern, rose)
+new models I trained (farsh,text, abi, blue) +  models I trained before (pattern, rose)
